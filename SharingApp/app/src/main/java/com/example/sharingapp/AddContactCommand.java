@@ -3,8 +3,7 @@ package com.example.sharingapp;
 import android.content.Context;
 
 /**
- * @author jaisonpr
- */
+ * @author GK-Kate */
 public class AddContactCommand extends Command {
 
     private ContactList contactList;
